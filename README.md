@@ -1,6 +1,6 @@
 # Bank Management System
 
-This is a **Bank Management System** built using **Java Swing** and **AWT** in **NetBeans**. It provides a seamless and user-friendly interface for managing bank accounts and performing essential banking operations.
+This is a **Bank Management System** built using **Java Swing** and **AWT** in **NetBeans** and integrated with **MySQL** database for smooth data management. It provides a seamless and user-friendly interface for managing bank accounts and performing essential banking operations.
 
 ## Features
 
